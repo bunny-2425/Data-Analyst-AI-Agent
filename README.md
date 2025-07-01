@@ -49,16 +49,23 @@ An AI-powered Streamlit application that acts as your personal data analyst. Upl
    ```bash
    git clone https://github.com/your-username/intelligent-data-analyst-agent.git
    cd intelligent-data-analyst-agent
+   ```
 
 2.Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 3.Add your Together API key
 Create a .env file in the root directory and add:
+```bash
 TOGETHER_API_KEY=your_api_key_here
+```
 
 4.Run the application
+```bash
 streamlit run app1.0.py
+```
 
 🧪 Sample Input & Output
 Text File Analysis: Uploads a .txt file → Agent extracts and analyzes content.
