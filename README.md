@@ -1,4 +1,4 @@
-# Data-Analyst-Agent
+# Data-AnalystA-AI-Agent
 
 # 🧠📊 Intelligent Data Analyst Agent
 
@@ -33,11 +33,17 @@ An AI-powered Streamlit application that acts as your personal data analyst. Upl
 
 📁 Intelligent-Data-Analyst-Agent/
 ├── app1.0.py # Streamlit application
+
 ├── agent_core.py # Core agent logic using Together API
+
 ├── file_handler.py # File reader for various formats
+
 ├── visualizer.py # Chart generation logic
+
 ├── test_file_handler.ipynb # File reading tests
+
 ├── requirements.txt # Required dependencies
+
 ├── .env # API keys (excluded from version control)
 
 
