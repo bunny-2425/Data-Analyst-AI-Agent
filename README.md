@@ -32,6 +32,7 @@ An AI-powered Streamlit application that acts as your personal data analyst. Upl
 ## 📂 Project Structure
 
 📁 Intelligent-Data-Analyst-Agent/
+
 ├── app1.0.py # Streamlit application
 
 ├── agent_core.py # Core agent logic using Together API
